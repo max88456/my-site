@@ -1,0 +1,4 @@
+question;type;points;option1;option2;option3;option4;option5;option6;correct
+Что такое PHP?;single;1;Язык программирования;Операционная система;Браузер;Редактор кода;;;1
+Какие типы данных есть в PHP?;multiple;2;integer;string;boolean;document;;;1|2|3
+Какое расширение у PHP-файла?;text;1;;;;;;; .php

@@ -1,0 +1,21 @@
+[
+  {
+    "question": "Что такое HTML?",
+    "type": "single",
+    "points": 1,
+    "option1": "Язык разметки",
+    "option2": "База данных",
+    "option3": "Операционная система",
+    "correct": "1"
+  },
+  {
+    "question": "Какие технологии относятся к frontend?",
+    "type": "multiple",
+    "points": 2,
+    "option1": "HTML",
+    "option2": "CSS",
+    "option3": "JavaScript",
+    "option4": "MySQL",
+    "correct": "1;2;3"
+  }
+]
